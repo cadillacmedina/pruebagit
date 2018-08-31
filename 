@@ -1,0 +1,9 @@
+ enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Juan Camilo Daza Medina <jdazamed@everis.com>
+#
+# On branch master
+# Changes to be committed:
+#	new file:   style.css
+#
